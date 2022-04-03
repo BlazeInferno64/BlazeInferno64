@@ -1,4 +1,3 @@
-```
 - 👋 Hi, I’m @BlaizingInfernoDragon123
 - 👀 I’m interested in ... Programming 
 - 🌱 I’m currently learning ... Every programming language
