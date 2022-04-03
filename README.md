@@ -6,9 +6,7 @@
 
 - 👀 I’m interested in ... Programming 
 - 🌱 I’m currently learning ... <a href="https://www.google.com/search?q=every+programming+language+&client=ms-android-oppo-rvo3&sxsrf=APq-WBuqH-lsYi9Qccr_F0gxoYs1xbctmA%3A1648972493989&ei=zVJJYpHvO_fXz7sP3pSmoAE&oq=every+programming+language+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIIxDqAhAnOgcILhCxAxBDOgcIABCxAxBDOgoILhCxAxDUAhBDOgQILhBDOhAILhCxAxDHARCjAhDUAhBDOgQIABBDOgoILhCxAxCDARBDOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABDoGCAAQFhAeOgQIABANOgQILhANSgQIQRgAUM4CWIQyYJ88aABwAXgDgAH-BYgBpT2SAQsyLTUuMy4yLjMuNJgBAKABAaABBbABD8gBCMABAQ&sclient=mobile-gws-wiz-serp">
-```
 Every programming language
-```
 </a>
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text -<a href="mailto:bibhabbarua@gmail.com">
