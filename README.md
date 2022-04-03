@@ -1,11 +1,15 @@
-```
+
 - 👋 Hi, I’m @BlaizingInfernoDragon123
 - 👀 I’m interested in ... Programming 
 - 🌱 I’m currently learning ... Every programming language
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... U can reach me by mailing me at <a href="mailto:bibhabbarua@gmail.com">BlazingInfernoDragon123@gmail.com</a>
-Thank u for reading have a nice day :)
+- 📫 How to reach me ... U can reach me by mailing me at <a href="mailto:bibhabbarua@gmail.com">
 ```
+BlazingInfernoDragon123@gmail.com
+```
+</a>
+Thank u for reading have a nice day :)
+
 
 <!---
 BlaizingInfernoDragon123/BlaizingInfernoDragon123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
