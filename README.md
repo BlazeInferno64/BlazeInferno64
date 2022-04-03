@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Every programming language
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text -
-```
+
 <a href="mailto:bibhabbarua@gmail.com">
 ```
 BlazingInfernoDragon123@gmail.com
