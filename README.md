@@ -1,7 +1,5 @@
 - 👋 Hi, I’m <a href="https://github.com/BlaizingInfernoDragon123">
-```
 @BlaizingInfernoDragon123
-```
 </a>
 
 - 👀 I’m interested in ... Programming 
