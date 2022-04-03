@@ -1,6 +1,9 @@
+- 👋 Hi, I’m <a href="https://github.com/BlaizingInfernoDragon123">
 ```
-- 👋 Hi, I’m @BlaizingInfernoDragon123
+@BlaizingInfernoDragon123
 ```
+</a>
+
 - 👀 I’m interested in ... Programming 
 - 🌱 I’m currently learning ... Every programming language
 - 💞️ I’m looking to collaborate on ... 
