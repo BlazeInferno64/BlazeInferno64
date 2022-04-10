@@ -17,9 +17,11 @@ Every programming language
 </a>
 
 - 💞️ I’m looking to collaborate on ... 
+ <a href="tel:+91-9101447131">
 ```
-<a href="tel:555-666-7777">555-666-7777</a>
+@BlaizingInfernoDragon123
 ```
+</a>
 
 - 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:bibhabbarua@gmail.com">
 ```
