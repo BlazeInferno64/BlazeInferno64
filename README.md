@@ -18,7 +18,7 @@ Every programming language
 
 - 💞️ I’m looking to collaborate on ... 
 ```
-Anything  Just Mail Me ✉ at <a href="callto:+919101447131>Call</a>
+ <a href="callto:+919101447131>Call</a>
 ```
 
 - 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:bibhabbarua@gmail.com">
