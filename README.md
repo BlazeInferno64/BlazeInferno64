@@ -17,9 +17,9 @@ Every programming language
 </a>
 
 - 💞️ I’m looking to collaborate on ... 
- <a href="tel:+91-9101447131">
+<a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
 ```
-@BlaizingInfernoDragon123
+BlazingInfernoDragon123 Channel
 ```
 </a>
 
