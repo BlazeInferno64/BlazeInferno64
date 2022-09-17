@@ -44,7 +44,7 @@ BlazingInfernoDragon123 Channel
 </a>
 <!-- Github -->
 `
-Want Follow me on Github?Click Down👇
+Want to follow me on github?Click Down👇
 `
 
 <a href="https://github.com/blaizinginfernodragon123">
