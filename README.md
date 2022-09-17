@@ -43,7 +43,7 @@ BlazingInfernoDragon123 Channel
 ```
 </a>
 
-[![patreon](https://www.patreon.com/blaizinnginfernodragon123/)
+[![github](https://www.patreon.com/blaizinnginfernodragon123/)
 
 <!---
 BlaizingInfernoDragon123/BlaizingInfernoDragon123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
