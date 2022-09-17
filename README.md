@@ -43,11 +43,15 @@ BlazingInfernoDragon123 Channel
 ```
 </a>
 
+Wanymt Follow me on Github?Click Down👇
+
 <a href="https://github.com/blaizinginfernodragon123">
 <img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg">
 </a>
 
 <!--[![patreon]-->
+`
+Support me on patreon?Click Down👇
 
 <a href="https://patreon.com/blaizinginfernodragon123">
 <img src="https://1.bp.blogspot.com/-7bPYnbDpDMg/YFfPMuFKyyI/AAAAAAAAS6A/8F8MMmMP4AQSACqo1EAshGTQhm0HEaKygCLcBGAsYHQ/s640/76jg.png">
