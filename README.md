@@ -42,8 +42,10 @@ Our YouTube Channel Link Plss subscribe -
 BlazingInfernoDragon123 Channel
 ```
 </a>
-
-Wanymt Follow me on Github?Click Down👇
+<!-- Github -->
+`
+Want Follow me on Github?Click Down👇
+`
 
 <a href="https://github.com/blaizinginfernodragon123">
 <img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg">
