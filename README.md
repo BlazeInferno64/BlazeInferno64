@@ -33,13 +33,24 @@ Anything Related To Computer Programming And Development
 </a>
 
 # My Email For Any Queries-
-- 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:bibhabbarua@gmail.com">
+- 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:bibhabbarua@gmail.com">
 ```
 BlazingInfernoDragon123@gmail.com
 ```
 </a>
 
+`
+Want to email directly ?Click Down👇
+`
+
+<a href="mailto:bibhabbarua@gmail.com">
+<img src="https://charityengine.net/wp-content/uploads/2022/05/CE-Icon-_Email-Marketing.svg" style="border-radius:5px" alt="BlaizingInfernoDragon123@gmail.com">
+</a>
+
+
+`
 Thank u for reading have a nice day :)
+`
 
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
