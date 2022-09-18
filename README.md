@@ -49,6 +49,20 @@ BlazingInfernoDragon123 Channel
 ```
 </a>
 
+<!-- YouTube -->
+
+<!-- Github -->
+
+`
+Want to subscribe to our channel directly ?Click Down👇
+`
+
+<a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-subscription-icon.svg" style="border-radius:5px">
+</a>
+
+
+
 <!-- Github -->
 
 `
