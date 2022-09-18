@@ -5,6 +5,16 @@
 ```
 </a>
 
+<!-- Github -->
+
+`
+Want to follow me on github?Click Down👇
+`
+
+<a href="https://github.com/blaizinginfernodragon123">
+<img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5px">
+</a>
+
 - 👀 I’m interested in ... <a href="https://www.google.com/search?q=Programming&oq=Programming+&aqs=chrome..69i57j0i433i512j0i512j0i433i512l2j0i512l2j46i131i175i199i433i512j0i433i512.2568j0j4&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8">
 ```
 Programming 
@@ -50,7 +60,7 @@ Want to follow me on github?Click Down👇
 `
 
 <a href="https://github.com/blaizinginfernodragon123">
-<img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5%">
+<img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5px">
 </a>
 
 <!--[![patreon]-->
