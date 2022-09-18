@@ -8,7 +8,7 @@
 <!-- Github -->
 
 <a href="https://github.com/blaizinginfernodragon123">
-<img src="https://avatars.githubusercontent.com/u/96913755?v=4" alt="BlaizingInfernoDragon123 LOGO" style="border-radius:5px">
+<img src="https://avatars.githubusercontent.com/u/96913755?v=4" alt="BlaizingInfernoDragon123 LOGO" style="max-width:25%;max-height:25%;border-radius: 50%;">
 </a>
 
 - 👀 I’m interested in ... <a href="https://www.google.com/search?q=Programming&oq=Programming+&aqs=chrome..69i57j0i433i512j0i512j0i433i512l2j0i512l2j46i131i175i199i433i512j0i433i512.2568j0j4&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8">
