@@ -7,10 +7,6 @@
 
 <!-- Github -->
 
-`
-Want to follow me on github?Click Down👇
-`
-
 <a href="https://github.com/blaizinginfernodragon123">
 <img src="https://avatars.githubusercontent.com/u/96913755?v=4" alt="BlaizingInfernoDragon123 LOGO" style="border-radius:5px">
 </a>
