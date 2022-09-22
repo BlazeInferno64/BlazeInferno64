@@ -9,17 +9,20 @@
 Currently a web developer and programmer.
 Sticking to html 5, Javascript and Css,as 
 it's very fascinating to see how the internet 
-works. I know other programming languages to.
-Btw make sure to follow me so that you all 
-don't miss any of my new repositories or else
-you can sub to my yt channel to keep up to
-date about my new repositories 😉👍
+works( what about you? Are you fascinated to 
+learn?let me know in the discussion section
+of any one of my repository). I know other 
+programming languages to. Btw make sure to 
+follow me so that you all  don't miss any 
+of my new repositories or else you can sub 
+to my youtube channel to keep up to date about 
+my new repositories 😉👍(links are given below)
 ```
 
 
 ```
 Note:-
-This About me(a.k.a Readme.md)file
+This About me (a.k.a Readme.md) file
 Might get updated in the future for
 That make sure you are following me
 On github or on any other means
