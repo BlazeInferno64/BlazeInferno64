@@ -5,6 +5,17 @@
 ```
 </a>
 
+```
+Currently a web developer and programmer.
+Sticking to html 5, Javascript and Css,as 
+it's very fascinating to see how the internet 
+works. I know other programming languages to.
+Btw make sure to follow me so that you all 
+don't miss any of my new repositories or else
+you can sub to my yt channel to keep up to
+date about my new repositories 😉👍
+```
+
 <!-- Github -->
 
 <a href="https://github.com/blaizinginfernodragon123">
