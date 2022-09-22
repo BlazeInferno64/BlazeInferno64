@@ -16,6 +16,16 @@ you can sub to my yt channel to keep up to
 date about my new repositories 😉👍
 ```
 
+
+```
+Note:-
+This About me(a.k.a Readme.md)file
+Might get updated in the future for
+That make sure you are following me
+On github or on any other means
+Links are given below check them out
+```
+
 <!-- Github -->
 
 <a href="https://github.com/blaizinginfernodragon123">
