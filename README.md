@@ -1,5 +1,7 @@
 # About Me
-- 👋 Hi, I’m <a href="https://github.com/BlaizingInfernoDragon123">
+- 👋 Hi, I’m 
+<a href="https://github.com/BlaizingInfernoDragon123">
+
 ```
 @BlaizingInfernoDragon123
 ```
@@ -41,7 +43,9 @@ Programming
 ```
 </a>
 
-- 🌱 I’m currently learning ... <a href="https://www.google.com/search?q=every+programming+language+&client=ms-android-oppo-rvo3&sxsrf=APq-WBuqH-lsYi9Qccr_F0gxoYs1xbctmA%3A1648972493989&ei=zVJJYpHvO_fXz7sP3pSmoAE&oq=every+programming+language+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIIxDqAhAnOgcILhCxAxBDOgcIABCxAxBDOgoILhCxAxDUAhBDOgQILhBDOhAILhCxAxDHARCjAhDUAhBDOgQIABBDOgoILhCxAxCDARBDOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABDoGCAAQFhAeOgQIABANOgQILhANSgQIQRgAUM4CWIQyYJ88aABwAXgDgAH-BYgBpT2SAQsyLTUuMy4yLjMuNJgBAKABAaABBbABD8gBCMABAQ&sclient=mobile-gws-wiz-serp">
+- 🌱 I’m currently learning ... 
+<a href="https://www.google.com/search?q=every+programming+language+&client=ms-android-oppo-rvo3&sxsrf=APq-WBuqH-lsYi9Qccr_F0gxoYs1xbctmA%3A1648972493989&ei=zVJJYpHvO_fXz7sP3pSmoAE&oq=every+programming+language+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIIxDqAhAnOgcILhCxAxBDOgcIABCxAxBDOgoILhCxAxDUAhBDOgQILhBDOhAILhCxAxDHARCjAhDUAhBDOgQIABBDOgoILhCxAxCDARBDOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABDoGCAAQFhAeOgQIABANOgQILhANSgQIQRgAUM4CWIQyYJ88aABwAXgDgAH-BYgBpT2SAQsyLTUuMy4yLjMuNJgBAKABAaABBbABD8gBCMABAQ&sclient=mobile-gws-wiz-serp">
+
 ```
 Every programming language
 ```
@@ -67,7 +71,9 @@ Fun link.Click Down👇
 
 
 # My Email For Any Queries-
-- 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:blazinginfernodragon123@gmail.com">
+- 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the blue colored text - 
+<a href="mailto:blazinginfernodragon123@gmail.com">
+
 ```
 BlazingInfernoDragon123@gmail.com
 ```
@@ -89,6 +95,7 @@ Thank u for reading have a nice day :)
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 <a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
+
 ```
 BlazingInfernoDragon123 Channel
 ```
