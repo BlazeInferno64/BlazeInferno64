@@ -56,6 +56,16 @@ Anything Related To Computer Programming And Development
 ```
 </a>
 
+<!--[![leisure]-->
+`
+Fun link.Click Down👇
+`
+
+<a href="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
+<img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
+</a>
+
+
 # My Email For Any Queries-
 - 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:blazinginfernodragon123@gmail.com">
 ```
