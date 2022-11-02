@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m 
-<a href="https://github.com/BlaizingInfernoDragon123">
+<a href="https://github.com/BlaizingInfernoDragon123" target="_blank">
 
 ```
 @BlaizingInfernoDragon123
@@ -33,17 +33,17 @@ Links are given below check them out
 
 <!-- Github -->
 
-<a href="https://github.com/blaizinginfernodragon123">
+<a href="https://github.com/blaizinginfernodragon123" target="_blank" >
 <img src="https://avatars.githubusercontent.com/u/96913755?v=4" alt="BlaizingInfernoDragon123 LOGO" style="max-width:25%;max-height:25%;border-radius:50%;">
 </a>
 
-<a href="https://github.com/blaizinginfernodragon123">
+<a href="https://github.com/blaizinginfernodragon123" target="_blank" >
 <img src="contributions.svg" alt="BlaizingInfernoDragon123 LOGO" style="max-width:25%;max-height:25%;border-radius:50%;">
 </a>
 
 - 👀 I’m interested in ... 
 
-<a href="https://www.google.com/search?q=Programming&oq=Programming+&aqs=chrome..69i57j0i433i512j0i512j0i433i512l2j0i512l2j46i131i175i199i433i512j0i433i512.2568j0j4&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8">
+<a href="https://www.google.com/search?q=Programming&oq=Programming+&aqs=chrome..69i57j0i433i512j0i512j0i433i512l2j0i512l2j46i131i175i199i433i512j0i433i512.2568j0j4&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8" target="_blank" >
 
 ```
 Programming 
@@ -51,7 +51,7 @@ Programming
 </a>
 
 - 🌱 I’m currently learning ... 
-<a href="https://www.google.com/search?q=every+programming+language+&client=ms-android-oppo-rvo3&sxsrf=APq-WBuqH-lsYi9Qccr_F0gxoYs1xbctmA%3A1648972493989&ei=zVJJYpHvO_fXz7sP3pSmoAE&oq=every+programming+language+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIIxDqAhAnOgcILhCxAxBDOgcIABCxAxBDOgoILhCxAxDUAhBDOgQILhBDOhAILhCxAxDHARCjAhDUAhBDOgQIABBDOgoILhCxAxCDARBDOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABDoGCAAQFhAeOgQIABANOgQILhANSgQIQRgAUM4CWIQyYJ88aABwAXgDgAH-BYgBpT2SAQsyLTUuMy4yLjMuNJgBAKABAaABBbABD8gBCMABAQ&sclient=mobile-gws-wiz-serp">
+<a href="https://www.google.com/search?q=every+programming+language+&client=ms-android-oppo-rvo3&sxsrf=APq-WBuqH-lsYi9Qccr_F0gxoYs1xbctmA%3A1648972493989&ei=zVJJYpHvO_fXz7sP3pSmoAE&oq=every+programming+language+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIIxDqAhAnOgcILhCxAxBDOgcIABCxAxBDOgoILhCxAxDUAhBDOgQILhBDOhAILhCxAxDHARCjAhDUAhBDOgQIABBDOgoILhCxAxCDARBDOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABDoGCAAQFhAeOgQIABANOgQILhANSgQIQRgAUM4CWIQyYJ88aABwAXgDgAH-BYgBpT2SAQsyLTUuMy4yLjMuNJgBAKABAaABBbABD8gBCMABAQ&sclient=mobile-gws-wiz-serp" target="_blank">
 
 ```
 Every programming language
@@ -59,7 +59,7 @@ Every programming language
 </a>
 
 - 💞️ I’m looking to collaborate on ... 
-<a href="https://www.google.com/search?q=anything+related+to+computer+programming+and+development&oq=anything+related+to+computer+programming+and+development&aqs=chrome..69i57j33i160.15225j0j4&client=ms-android-vivo&sourceid=chrome-mobile&ie=UTF-8">
+<a href="https://www.google.com/search?q=anything+related+to+computer+programming+and+development&oq=anything+related+to+computer+programming+and+development&aqs=chrome..69i57j33i160.15225j0j4&client=ms-android-vivo&sourceid=chrome-mobile&ie=UTF-8" target="_blank">
 
 ```
 Anything Related To Computer Programming And Development
@@ -72,14 +72,14 @@ Anything Related To Computer Programming And Development
 Fun link.Click Down👇
 `
 
-<a href="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
+<a href="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" target="_blank">
 <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
 </a>
 
 
 # My Email For Any Queries-
 - 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the blue colored text - 
-<a href="mailto:blazinginfernodragon123@gmail.com">
+<a href="mailto:blazinginfernodragon123@gmail.com" target="_blank">
 
 ```
 BlazingInfernoDragon123@gmail.com
@@ -90,7 +90,7 @@ BlazingInfernoDragon123@gmail.com
 Want to email directly ?Click Down👇
 `
 
-<a href="mailto:blazinginfernodragon123@gmail.com">
+<a href="mailto:blazinginfernodragon123@gmail.com" target="_blank">
 <img src="https://charityengine.net/wp-content/uploads/2022/05/CE-Icon-_Email-Marketing.svg" style="border-radius:5px" alt="BlaizingInfernoDragon123@gmail.com">
 </a>
 
@@ -102,7 +102,7 @@ Thank u for reading have a nice day :)
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 
-<a href="https://youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug">
+<a href="https://youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug" target="_blank">
 
 ```
 BlazingInfernoDragon123 Channel
@@ -117,7 +117,7 @@ BlazingInfernoDragon123 Channel
 Want to subscribe to our channel directly ?Click Down👇
 `
 
-<a href="https://youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug">
+<a href="https://youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug" target="_blank">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-subscription-icon.svg" style="border-radius:5px">
 </a>
 
@@ -128,7 +128,7 @@ Want to subscribe to our channel directly ?Click Down👇
 Got any files to show me?Click Down👇
 `
 
-<a href="https://forms.gle/y6YSBnyNvnrhgrKg9">
+<a href="https://forms.gle/y6YSBnyNvnrhgrKg9" target="_blank">
 <img src="https://images.ctfassets.net/lzny33ho1g45/4ODoWVyzgicvbcb6J9ZZZ5/89e33c333afa86e9e2864ba42833a5be/app-tips-google-forms-00-hero.png?w=1520&fm=jpg&q=30&fit=thumb&h=760">
 </a>
 
@@ -141,7 +141,7 @@ Got any files to show me?Click Down👇
 Want to follow me on github?Click Down👇
 `
 
-<a href="https://github.com/blaizinginfernodragon123">
+<a href="https://github.com/blaizinginfernodragon123" target="_blank">
 <img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5px">
 </a>
 
@@ -150,7 +150,7 @@ Want to follow me on github?Click Down👇
 Support me on patreon?Click Down👇
 `
 
-<a href="https://patreon.com/blaizinginfernodragon123">
+<a href="https://patreon.com/blaizinginfernodragon123" target="_blank">
 <img src="https://1.bp.blogspot.com/-7bPYnbDpDMg/YFfPMuFKyyI/AAAAAAAAS6A/8F8MMmMP4AQSACqo1EAshGTQhm0HEaKygCLcBGAsYHQ/s640/76jg.png">
 </a>
 
