@@ -11,7 +11,7 @@
 Currently a web developer and programmer.
 Sticking to html 5, Javascript and Css,as 
 it's very fascinating to see how the internet (web) 
-works ( what about you? Are you fascinated to 
+actually works ( what about you? Are you fascinated to 
 learn? let me know in the discussion section
 of any one of my repository or through mail). I know other 
 programming languages to. Btw make sure to 
