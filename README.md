@@ -98,8 +98,10 @@ Want to email directly ?Click Down👇
 `
 Thank u for reading have a nice day :)
 `
-# Github Stats (Streak) -
+# Github Stats -
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlaizingInfernoDragon123&theme=dark)](https://github.com/blaizinginfernodragon123)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaizingInfernoDragon123)](https://github.com/blaizinginfernodragon123)
+
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 
