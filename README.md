@@ -99,7 +99,7 @@ Want to email directly ?Click Down👇
 Thank u for reading have a nice day :)
 `
 # Github Stats-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlaizingInfernoDragon123&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlaizingInfernoDragon123&theme=dark)](https://github.com/blaizinginfernodragon123)
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 
