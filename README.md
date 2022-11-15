@@ -112,6 +112,8 @@ Thank u for reading have a nice day :)
   <img src="https://profile-counter.glitch.me/blaizinginfernodragon123/count.svg" />
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=blaizinginfernodragon123&left_color=black&right_color=blue)
+
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 
