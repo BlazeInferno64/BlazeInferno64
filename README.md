@@ -102,6 +102,16 @@ Thank u for reading have a nice day :)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlaizingInfernoDragon123&theme=dark)](https://github.com/blaizinginfernodragon123)
 [![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaizingInfernoDragon123)](https://github.com/blaizinginfernodragon123)
 
+# Visitor count -
+<p align="center"> 
+
+`
+  Visitor count
+`
+<br>
+  <img src="https://profile-counter.glitch.me/blaizinginfernodragon123/count.svg" />
+</p>
+
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 
