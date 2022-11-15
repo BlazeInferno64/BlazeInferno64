@@ -38,7 +38,7 @@ Links are given below check them out
 </a>
 
 <a href="https://github.com/blaizinginfernodragon123" target="_blank" >
-<img src="contributions.svg" alt="BlaizingInfernoDragon123 LOGO" style="max-width:25%;max-height:25%;border-radius:50%;">
+<img src="https://raw.githubusercontent.com/BlaizingInfernoDragon123/blaizinginfernodragon123/output/github-contribution-grid-snake.svg" alt="BlaizingInfernoDragon123 LOGO" style="max-width:25%;max-height:25%;border-radius:50%;">
 </a>
 
 - 👀 I’m interested in ... 
