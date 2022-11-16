@@ -156,7 +156,7 @@ Got any files to show me?Click Down👇
 Want to follow me on github?Click Down👇
 `
 
-<a href="https://github.com/blaizinginfernodragon123" target="_blank">
+<a href="https://github.com/blaizinginfernodragon123?tab=following" target="_blank">
 <img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5px">
 </a>
 
