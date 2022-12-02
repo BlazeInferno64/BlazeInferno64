@@ -76,6 +76,11 @@ Fun link.Click Down👇
 <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
 </a>
 
+<a href="https://p.favim.com/orig/2018/11/05/kawaii-8-bit-gif-Favim.com-6490317.gif" target="_blank">
+<img src="https://p.favim.com/orig/2018/11/05/kawaii-8-bit-gif-Favim.com-6490317.gif">
+</a>
+
+
 
 # My Email For Any Queries-
 - 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the blue colored text - 
