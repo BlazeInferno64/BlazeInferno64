@@ -77,7 +77,7 @@ Fun link.Click Down👇
 </a>
 
 <a href="https://p.favim.com/orig/2018/11/05/kawaii-8-bit-gif-Favim.com-6490317.gif" target="_blank">
-<img src="https://p.favim.com/orig/2018/11/05/kawaii-8-bit-gif-Favim.com-6490317.gif">
+<img src="https://wallpapercave.com/uwp/uwp2086260.gif">
 </a>
 
 # My Email For Any Queries-
