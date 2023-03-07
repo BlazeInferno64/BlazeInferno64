@@ -120,7 +120,7 @@ Thank u for reading have a nice day :)
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 
-<a href="https://www.youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug/sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug?sub_confirmation=1" target="_blank">
 
 ```
 BlazingInfernoDragon123 Channel
