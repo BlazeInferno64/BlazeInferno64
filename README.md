@@ -120,7 +120,7 @@ Thank u for reading have a nice day :)
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 
-<a href="https://www.youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1" target="_blank">
 
 ```
 BlazingInfernoDragon123 Channel
@@ -135,7 +135,7 @@ BlazingInfernoDragon123 Channel
 Want to subscribe to our channel directly ?Click Down👇
 `
 
-<a href="https://youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug" target="_blank">
+<a href="https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1" target="_blank">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-subscription-icon.svg" style="border-radius:5px">
 </a>
 
