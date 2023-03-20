@@ -10,7 +10,7 @@
 ```
 Hi,  I am a software engineer and a web developer 
 both frontend/backend. I have experience of 
-various types of programming languages.
+various types on programming languages.
 Currently I'm working on Html, Javascript, Css, PHP,etc. 
 along with some frameworks like Node.js, React.js,etc. 
 as it's very fascinating to see how the web 
