@@ -8,13 +8,16 @@
 </a>
 
 ```
-Currently a web developer and programmer.
-Sticking to html 5, Javascript and Css,as 
-it's very fascinating to see how the internet (web) 
-actually works ( what about you? Are you fascinated to 
-learn? let me know in the discussion section
-of any one of my repository or through mail). I know other 
-programming languages to. Btw make sure to 
+Hi,  I am a software engineer and a web developer 
+both frontend/backend. I have experience of 
+various types of programming languages.
+Currently I'm working on Html, Javascript, Css, PHP,etc. 
+along with some frameworks like Node.js, React.js,etc. 
+as it's very fascinating to see how the web 
+actually works ( What about you? Are you fascinated to 
+learn? let me know through the discussion section
+of any one of my repository or through my mail).
+ By the way make sure to 
 follow me so that you all  don't miss any 
 of my new repositories or else you can sub 
 to my youtube channel to keep up to date about 
