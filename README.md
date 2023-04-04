@@ -107,7 +107,7 @@ Thank u for reading have a nice day :)
 # Github Stats -
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=BlaizingInfernoDragon123&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/blaizinginfernodragon123)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlaizingInfernoDragon123&theme=dark)](https://github.com/blaizinginfernodragon123)
-[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaizingInfernoDragon123&theme=radical)](https://github.com/blaizinginfernodragon123?tab=repositories)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaizingInfernoDragon123&theme=radical&layout=compact)](https://github.com/blaizinginfernodragon123?tab=repositories)
 
 # Visitor count -
 <p align="center"> 
