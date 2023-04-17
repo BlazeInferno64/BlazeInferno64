@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m 
+- 👋 Hi there , I’m 
 <a href="https://github.com/BlaizingInfernoDragon123" target="_blank">
 
 ```
@@ -8,7 +8,7 @@
 </a>
 
 ```
-Hi,  I am a software engineer and a web developer 
+I am a software developer  and a web developer 
 both frontend/backend. I have experience of 
 various types on programming languages.
 Currently I'm working on Html, Javascript, Css, PHP,etc. 
@@ -84,11 +84,11 @@ Fun link.Click Down👇
 </a>
 
 # My Email For Any Queries-
-- 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the blue colored text - 
+- 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the box or the mail image below  - 
 <a href="mailto:blazinginfernodragon123@gmail.com" target="_blank">
 
 ```
-BlazingInfernoDragon123@gmail.com
+blazinginfernodragon123@gmail.com
 ```
 </a>
 
@@ -122,12 +122,12 @@ Thank u for reading have a nice day :)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=blaizinginfernodragon123&left_color=black&right_color=blue)
 
 # Our YouTube Channel Link-
-Our YouTube Channel Link Plss subscribe -
+Feeling generous for my contributions on github?  Why not subscribe to my YouTube Channel, so as to stay updated on my latest projects on github, Click the link present in the box below or on the image below the box  -
 
 <a href="https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1" target="_blank">
 
 ```
-BlazingInfernoDragon123 Channel
+https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1
 ```
 </a>
 
@@ -147,7 +147,7 @@ Want to subscribe to our channel directly ?Click Down👇
 
 <!--[![patreon]-->
 `
-Got any files to show me?Click Down👇
+Got any files to show me? Click Down below in the image 👇
 `
 
 <a href="https://forms.gle/y6YSBnyNvnrhgrKg9" target="_blank">
