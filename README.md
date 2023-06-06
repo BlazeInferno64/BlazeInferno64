@@ -51,8 +51,10 @@ Visitor Count -
 If you ever feel the need of contacting me then just,
 
 Fill this form in my website and I will reach to you soon by mail
+
 <br>
- If you want to visit my website the link is below -
+
+The link is below -
  
  <a href="https://blazeinferno64.github.io/#contact">
  
