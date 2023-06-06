@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi there , I’m 
+- 👋 Hi there, I’m 
 <a href="https://github.com/BlaizingInfernoDragon123" target="_blank">
 
 ```
