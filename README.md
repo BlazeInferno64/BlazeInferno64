@@ -1,128 +1,79 @@
 # About Me
-- 👋 Hi there, I’m 
-<a href="https://github.com/BlaizingInfernoDragon123" target="_blank">
+Well Hello there , I am
+<a href="https://github.com/BlazeInferno64/BlazeInferno64">
+ 
+```
+ BlazeInferno64
+```
+ </a>
+<p>
+ I am a web/software developer both fron-end and back-end,
+ 
+ Here in my github page you will mostly find repositories, which will provide you various types of guides and demonstration of softwares both web and desktop/mobile,
+ Some of my favourite languages for programming are - Python,C++,C,JavaScript,Html,Css,etc.
 
+ I hope that from my repositories you can learn something new :)
+ 
+ Also, my repositories are completely free for use so, don't worry about anything
+ </p>
+ 
+ <br>
+ If you want to visit my website the link is below -
+ <a href="https://blazeinferno64.github.io/">
+ 
 ```
-@BlaizingInfernoDragon123
+https://blazeinferno64.github.io/
 ```
+ </a>
+
+<br>
+
+Visitor Count -
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BlazeInferno64&left_color=black&right_color=blue)
+<br>
+
+# My Github Stats/Contributions -
+
+<a href="https://github.com/BlazeInferno64" target="_blank" >
+<img src="https://raw.githubusercontent.com/BlazeInferno64/BlazeInferno64/output/github-contribution-grid-snake.svg">
 </a>
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=BlazeInferno64&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/BlazeInferno64)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlazeInferno64&theme=dark)](https://github.com/BlazeInferno64)
+<br>
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeInferno64&theme=radical&layout=compact)](https://github.com/BlazeInferno64?tab=repositories)
+<br>
+
+# Contact
+
+If you ever feel the need of contacting me then just,
+
+Fill this form in my website and I will reach to you soon by mail
+<br>
+ If you want to visit my website the link is below -
+ <a href="https://blazeinferno64.github.io/#contact">
+ 
 ```
-I am a software developer  and a web developer 
-both frontend/backend. I have experience of 
-various types on programming languages.
-Currently I'm working on Html, Javascript, Css, PHP,etc. 
-along with some frameworks like Node.js, React.js,etc. 
-as it's very fascinating to see how the web 
-actually works ( What about you? Are you fascinated to 
-learn? let me know through the discussion section
-of any one of my repository or through my mail).
- By the way make sure to 
-follow me so that you all  don't miss any 
-of my new repositories or else you can sub 
-to my youtube channel to keep up to date about 
-my new repositories 😉👍(links are given below)
+https://blazeinferno64.github.io/#contact
 ```
+ </a>
+<br>
 
+or just mail me directly in my mail address given below, (Just tap on the box)
 
-```
-Note:-
-This About me (a.k.a Readme.md) file
-Might get updated in the future for
-That make sure you are following me
-On github or on any other means
-Links are given below check them out
-```
-
-<!-- Github -->
-
-<a href="https://github.com/blaizinginfernodragon123" target="_blank" >
-<img src="https://avatars.githubusercontent.com/u/96913755?v=4" alt="BlaizingInfernoDragon123 LOGO" style="max-width:25%;max-height:25%;border-radius:50%;">
-</a>
-
-<a href="https://github.com/blaizinginfernodragon123" target="_blank" >
-<img src="https://raw.githubusercontent.com/BlaizingInfernoDragon123/blaizinginfernodragon123/output/github-contribution-grid-snake.svg" alt="BlaizingInfernoDragon123 LOGO" style="max-width:25%;max-height:25%;border-radius:50%;">
-</a>
-
-- 👀 I’m interested in ... 
-
-<a href="https://www.google.com/search?q=Programming&oq=Programming+&aqs=chrome..69i57j0i433i512j0i512j0i433i512l2j0i512l2j46i131i175i199i433i512j0i433i512.2568j0j4&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8" target="_blank" >
-
-```
-Programming 
-```
-</a>
-
-- 🌱 I’m currently learning ... 
-<a href="https://www.google.com/search?q=every+programming+language+&client=ms-android-oppo-rvo3&sxsrf=APq-WBuqH-lsYi9Qccr_F0gxoYs1xbctmA%3A1648972493989&ei=zVJJYpHvO_fXz7sP3pSmoAE&oq=every+programming+language+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIIxDqAhAnOgcILhCxAxBDOgcIABCxAxBDOgoILhCxAxDUAhBDOgQILhBDOhAILhCxAxDHARCjAhDUAhBDOgQIABBDOgoILhCxAxCDARBDOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABDoGCAAQFhAeOgQIABANOgQILhANSgQIQRgAUM4CWIQyYJ88aABwAXgDgAH-BYgBpT2SAQsyLTUuMy4yLjMuNJgBAKABAaABBbABD8gBCMABAQ&sclient=mobile-gws-wiz-serp" target="_blank">
-
-```
-Every programming language
-```
-</a>
-
-- 💞️ I’m looking to collaborate on ... 
-<a href="https://www.google.com/search?q=anything+related+to+computer+programming+and+development&oq=anything+related+to+computer+programming+and+development&aqs=chrome..69i57j33i160.15225j0j4&client=ms-android-vivo&sourceid=chrome-mobile&ie=UTF-8" target="_blank">
-
-```
-Anything Related To Computer Programming And Development
-
-```
-</a>
-
-<!--[![leisure]-->
-`
-Fun link.Click Down👇
-`
-
-<a href="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" target="_blank">
-<img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
-</a>
-
-<a href="https://p.favim.com/orig/2018/11/05/kawaii-8-bit-gif-Favim.com-6490317.gif" target="_blank">
-<img src="https://wallpapercave.com/uwp/uwp2086260.gif">
-</a>
-
-# My Email For Any Queries-
-- 📫 How to reach me ... you can reach me by mailing me at this email address just click once at the box or the mail image below  - 
+<br>
 <a href="mailto:blazinginfernodragon123@gmail.com" target="_blank">
 
 ```
 blazinginfernodragon123@gmail.com
 ```
 </a>
-
-`
-Want to email directly ?Click Down👇
-`
-
-<a href="mailto:blazinginfernodragon123@gmail.com" target="_blank">
-<img src="https://charityengine.net/wp-content/uploads/2022/05/CE-Icon-_Email-Marketing.svg" style="border-radius:5px" alt="BlaizingInfernoDragon123@gmail.com">
-</a>
-
-
-`
-Thank u for reading have a nice day :)
-`
-# Github Stats -
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=BlaizingInfernoDragon123&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/blaizinginfernodragon123)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlaizingInfernoDragon123&theme=dark)](https://github.com/blaizinginfernodragon123)
-[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaizingInfernoDragon123&theme=radical&layout=compact)](https://github.com/blaizinginfernodragon123?tab=repositories)
-
-# Visitor count -
-<p align="center"> 
-
-`
-  Visitor count
-`
 <br>
-  <img src="https://profile-counter.glitch.me/blaizinginfernodragon123/count.svg" />
-</p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=blaizinginfernodragon123&left_color=black&right_color=blue)
+# Social Media 
 
-# Our YouTube Channel Link-
-Feeling generous for my contributions on github?  Why not subscribe to my YouTube Channel, so as to stay updated on my latest projects on github, Click the link present in the box below or on the image below the box  -
+I do possess a youtube channel, you can for sure the link is given below -
 
 <a href="https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1" target="_blank">
 
@@ -131,52 +82,25 @@ https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1
 ```
 </a>
 
-<!-- YouTube -->
+# Contributions -
 
-<!-- Github -->
-
-`
-Want to subscribe to our channel directly ?Click Down👇
-`
-
-<a href="https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1" target="_blank">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-subscription-icon.svg" style="border-radius:5px">
-</a>
-
-# Google Forms File Upload 
-
-<!--[![patreon]-->
-`
-Got any files to show me? Click Down below in the image 👇
-`
-
-<a href="https://forms.gle/y6YSBnyNvnrhgrKg9" target="_blank">
-<img src="https://images.ctfassets.net/lzny33ho1g45/4ODoWVyzgicvbcb6J9ZZZ5/89e33c333afa86e9e2864ba42833a5be/app-tips-google-forms-00-hero.png?w=1520&fm=jpg&q=30&fit=thumb&h=760">
-</a>
-
-
-# My Other Following Links 🔗 - 
-
-<!-- Github -->
-
-`
-Want to follow me on github?Click Down👇
-`
-
-<a href="https://github.com/blaizinginfernodragon123?tab=following" target="_blank">
-<img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5px">
-</a>
-
-<!--[![patreon]-->
-`
-Support me on patreon?Click Down👇
-`
+If you want to contribute/sponsor to me then please checkout my patreon page ,
+the link is given below (just tap on the image) -
 
 <a href="https://patreon.com/blaizinginfernodragon123" target="_blank">
 <img src="https://1.bp.blogspot.com/-7bPYnbDpDMg/YFfPMuFKyyI/AAAAAAAAS6A/8F8MMmMP4AQSACqo1EAshGTQhm0HEaKygCLcBGAsYHQ/s640/76jg.png">
 </a>
 
+`
+Thanks for spending your time, reading this 
+`
+
+`
+Have a  nice day ahead :)
+`
+
+
 <!---
-BlaizingInfernoDragon123/BlaizingInfernoDragon123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BlazeInferno64/BlazeInferno64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
