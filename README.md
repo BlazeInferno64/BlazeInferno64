@@ -10,7 +10,7 @@ Well Hello there , I am
  I am a web/software developer both fron-end and back-end,
  
  Here in my github page you will mostly find repositories, which will provide you various types of guides and demonstration of softwares both web and desktop/mobile,
- Some of my favourite languages for programming are - Python,C++,C,JavaScript,Html,Css,etc.
+ Some of my favourite languages for programming are - Python, C++, C, JavaScript, Html, Css, etc.
 
  I hope that from my repositories you can learn something new :)
  
@@ -19,6 +19,9 @@ Well Hello there , I am
  
  <br>
  If you want to visit my website the link is below -
+ 
+ <br>
+ 
  <a href="https://blazeinferno64.github.io/">
  
 ```
@@ -30,6 +33,7 @@ https://blazeinferno64.github.io/
 
 Visitor Count -
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BlazeInferno64&left_color=black&right_color=blue)
+<!--[visitors](https://profile-counter.glitch.me/BlazeInferno64/count.svg)-->
 <br>
 
 # My Github Stats/Contributions -
@@ -75,10 +79,10 @@ blazinginfernodragon123@gmail.com
 
 I do possess a youtube channel, you can for sure the link is given below -
 
-<a href="https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/@blazeinferno64?sub_confirmation=1" target="_blank">
 
 ```
-https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1
+https://www.youtube.com/@blazeinferno64
 ```
 </a>
 
