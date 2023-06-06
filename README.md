@@ -7,10 +7,10 @@ Well Hello there , I am
 ```
  </a>
 <p>
- I am a web/software developer both fron-end and back-end,
+ I am a web/software developer both front-end and back-end,
  
  Here in my github page you will mostly find repositories, which will provide you various types of guides and demonstration of softwares both web and desktop/mobile,
- Some of my favourite languages for programming are - Python, C++, C, JavaScript, Html, Css, etc.
+Some of my favourite languages for programming are - Python, C++, C, JavaScript, Html, Css, etc.
 
  I hope that from my repositories you can learn something new :)
  
