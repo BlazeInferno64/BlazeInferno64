@@ -73,12 +73,17 @@ blazinginfernodragon123@gmail.com
 
 # Social Media 
 
-I do possess a youtube channel, you can for sure the link is given below -
+I do possess a youtube channel, 
 
-<a href="https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1" target="_blank">
+If you want to subscribe it ,you can for sure do it,
+the link is given below -
+
+<br>
+
+<a href="https://www.youtube.com/@InfernoBlaze64?sub_confirmation=1" target="_blank">
 
 ```
-https://www.youtube.com/@blaizinginfernodragon123?sub_confirmation=1
+https://www.youtube.com/@InfernoBlaze64
 ```
 </a>
 
