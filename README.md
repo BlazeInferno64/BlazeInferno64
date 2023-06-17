@@ -26,7 +26,9 @@ Well Hello there 👋, I am
  </p>
  
  <br>
- If you want to visit my website the link is below -
+ If you want to visit my website the link is below 
+ 
+ <br>
  
  <br>
  
@@ -35,6 +37,7 @@ Well Hello there 👋, I am
 ```
 https://blazeinferno64.github.io/
 ```
+ 
  </a>
 
 
