@@ -17,7 +17,14 @@ Well Hello there 👋, I am
  <br>
  
 <li>
- Some of my favourite languages for programming are - ` Python, C++, C, JavaScript, Html, Css, etc. `
+ Some of my favourite languages for programming are -  Python, C++, C,C#, JavaScript, Html, Css, Php, etc. 
+ 
+ <br>
+ 
+ <p align="center">
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=python,cpp,c,cs,html,css,js,php"/>
+</p>
+ 
  </li>
 
  I hope that from my repositories you can learn something new :)
