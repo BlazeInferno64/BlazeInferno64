@@ -19,7 +19,7 @@ Well Hello there 👋, I am
  <br>
  
  <p align="center">
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=react,nginx,nodejs,python,"/>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=react,nginx,nodejs,python,cpp"/>
 </p>
  
  </li>
