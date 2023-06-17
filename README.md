@@ -44,7 +44,7 @@ https://blazeinferno64.github.io/
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=jquery,gcp,php,python,java,ts,js,nodejs,aws,azure,github,cloudflare,linux,firebase,react,vue,docker,django,express,mongodb,mysql,cpp,c,cs,electron,flask,html,css,raspberrypi,vscode"/>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=jquery,gcp,php,python,java,ts,js,nodejs,aws,azure,github,cloudflare,linux,firebase,react,vue,docker,django,express,mongodb,mysql,cpp,c,cs,electron,flask,html,css,raspberrypi,vscode,visualstudio"/>
 </p>
 
 <br>
