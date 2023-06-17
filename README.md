@@ -9,9 +9,19 @@ Well Hello there 👋, I am
 <p>
 <li>I am a web/software developer both front-end and back-end,</li>
  
+ <br>
  
 <li>
- Here in my github page you will mostly find repositories, which will provide you various types of guides and demonstration of softwares both web and desktop/mobile,
+ Here in my github page you will mostly find repositories, which will provide you various types of guides and demonstration of softwares both web and desktop/mobile.
+ I mostly use these frameworks/languages for app building below 👇
+ 
+ 
+ <br>
+ 
+ <p align="center">
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=react,nginx,nodejs,python,"/>
+</p>
+ 
  </li>
 
  <br>
@@ -33,7 +43,7 @@ Well Hello there 👋, I am
  </p>
  
  <br>
- If you want to visit my website the link is below 
+ If you want to take a look at my website then, the link is below 👇
  
  <br>
  
