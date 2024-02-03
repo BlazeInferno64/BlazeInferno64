@@ -7,27 +7,25 @@ Well Hello there 👋, I am
 ```
  </a>
 <p>
-<li>I am a web/software developer both front-end and back-end,</li>
+I am a full stack developer,</li>
  
  <br>
  
-<li>
- Here in my github page you will mostly find repositories, which will provide you various types of guides and demonstration of softwares both web and desktop/mobile.
- I mostly use these frameworks/languages for app building below 👇
+
+Here in my github page you will mostly find repositories, which will provide you various types of guides and demonstration of softwares both web and desktop/mobile.
  
  
  <br>
  
  <p align="center">
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=react,nginx,nodejs,python,cpp"/>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=react,nodejs,python,cpp"/>
 </p>
  
- </li>
+ 
 
  <br>
  
-<li>
- Some of my favourite languages for programming are -  Python, C++, C,C#, JavaScript, Html, Css, Php, etc. 
+My fav languages are below 👇
  
  <br>
  
@@ -35,15 +33,16 @@ Well Hello there 👋, I am
   <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=python,cpp,c,cs,html,css,js,php"/>
 </p>
  
- </li>
+ <br>
 
  I hope that from my repositories you can learn something new :)
  
- Also, my repositories are completely free for use so, don't worry about anything
+ Also, my repositories are completely free for use so, don't worry about anything 
  </p>
+
  
  <br>
- If you want to take a look at my website then, the link is below 👇
+If you want to take a look at my website then, the link is below 👇
  
  <br>
  
@@ -60,14 +59,15 @@ https://blazeinferno64.github.io/
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=jquery,gcp,php,python,java,ts,js,nodejs,aws,azure,github,cloudflare,linux,firebase,react,vue,docker,django,express,mongodb,mysql,cpp,c,cs,electron,flask,html,css,raspberrypi,vscode,visualstudio"/>
-</p>
+</p> -->
 
 <br>
 
 Visitor Count -
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BlazeInferno64&left_color=black&right_color=blue)
+<!--![visitors]([https://visitor-badge.glitch.me/badge?page_id=BlazeInferno64&left_color=black&right_color=blue](https://profile-counter.glitch.me/blazeinferno64/count.svg))-->
+<img src="https://profile-counter.glitch.me/blazeinferno64/count.svg">
 <br>
 
 # My Github Stats/Contributions -
@@ -112,23 +112,7 @@ blazinginfernodragon123@gmail.com
 </a>
 <br>
 
-# Social Media 
-
-I do possess a youtube channel, 
-
-If you want to subscribe it ,you can for sure do it,
-the link is given below -
-
-<br>
-
-<a href="https://www.youtube.com/@InfernoBlaze64?sub_confirmation=1" target="_blank">
-
-```
-https://www.youtube.com/@InfernoBlaze64
-```
-</a>
-
-# Contributions -
+Contributions -
 
 If you want to contribute/sponsor to me then please checkout my patreon page ,
 the link is given below (just tap on the image) -
