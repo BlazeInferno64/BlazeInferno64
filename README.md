@@ -73,7 +73,7 @@ Visitor Count -
 # My Github Stats/Contributions -
 
 <a href="https://github.com/BlazeInferno64" target="_blank" >
-<img src="https://raw.githubusercontent.com/BlazeInferno64/BlazeInferno64/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/blazeinferno64/BlazeInferno64/output/github-contribution-grid-snake.svg">
 </a>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=BlazeInferno64&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/BlazeInferno64)
@@ -99,27 +99,17 @@ The link is below -
 https://blazeinferno64.github.io/#contact
 ```
  </a>
-<br>
-
-or just mail me directly in my mail address given below, (Just tap on the box)
 
 <br>
-<a href="mailto:blazinginfernodragon123@gmail.com" target="_blank">
 
-```
-blazinginfernodragon123@gmail.com
-```
-</a>
-<br>
-
-Contributions -
+<!--Contributions -
 
 If you want to contribute/sponsor to me then please checkout my patreon page ,
 the link is given below (just tap on the image) -
 
 <a href="https://patreon.com/blaizinginfernodragon123" target="_blank">
 <img src="https://1.bp.blogspot.com/-7bPYnbDpDMg/YFfPMuFKyyI/AAAAAAAAS6A/8F8MMmMP4AQSACqo1EAshGTQhm0HEaKygCLcBGAsYHQ/s640/76jg.png">
-</a>
+</a> -->
 
 `
 Thanks for spending your time, reading this 
