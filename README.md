@@ -4,6 +4,9 @@
 
 Thanks for stumbling upon my GitHub account. I am a full stack developer. Here in my GitHub you will most likely find some open source software projects and repositories which might help you.
 
+[![My Skills](https://profile-counter.glitch.me/blazeinferno64/count.svg)](https://github.com/blazeinferno64)
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp)](https://github.com/blazeinferno64)
 
 # Developer meme
