@@ -6,6 +6,7 @@ Thanks for stumbling upon my GitHub account. I am a full stack developer. Here i
 
 [![My Skills](https://profile-counter.glitch.me/blazeinferno64/count.svg)](https://github.com/blazeinferno64)
 
+<!-- https://komarev.com/ghpvc/?username=blazeinferno64&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=e91e63 -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp)](https://github.com/blazeinferno64)
 
