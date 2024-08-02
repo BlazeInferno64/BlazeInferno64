@@ -10,6 +10,6 @@ Thanks for stumbling upon my GitHub account. I am a full stack developer. Here i
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp)](https://github.com/blazeinferno64)
 
-# Developer meme
+# Quote of the day
 
 [![Random developer meme](https://www.boredpanda.com/blog/wp-content/uploads/2021/12/2-61ae1e704e406__700.jpg)](https://github.com/blazeinferno64)
