@@ -12,4 +12,4 @@ Thanks for stumbling upon my GitHub account. I am a full stack developer. Here i
 
 # Quote of the day
 
-[![Random developer meme](https://www.boredpanda.com/blog/wp-content/uploads/2021/12/2-61ae1e704e406__700.jpg)](https://github.com/blazeinferno64)
+[![Random developer meme](https://i.chzbgr.com/full/9340632832/hADF9F8FC/your-code-for-the-74th-time-and-you-finally-get-a-different-error-i-see-this-as-an-absolute-win)](https://github.com/blazeinferno64)
