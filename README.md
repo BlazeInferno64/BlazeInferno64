@@ -4,7 +4,7 @@
 
 Thanks for stumbling upon my GitHub account. I am a full stack developer. Here in my GitHub you will most likely find some open source software projects and repositories which might help you.
 
-[![My Skills](https://profile-counter.glitch.me/blazeinferno64/count.svg)](https://github.com/blazeinferno64)
+[![My Profile View Counts](https://profile-counter.glitch.me/blazeinferno64/count.svg)](https://github.com/blazeinferno64)
 
 <!-- https://komarev.com/ghpvc/?username=blazeinferno64&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=e91e63 -->
 
