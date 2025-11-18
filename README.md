@@ -14,6 +14,7 @@
   <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=blazeinferno64&theme=onedark&count_private=true&include_all_commits=true&line_height=28" width=335></a>
 </p>
 
+### About
 Thanks for stumbling upon my GitHub account. I am a backend developer. Here in my GitHub you will most likely find some open source software projects and repositories which might help you.
 
 [![My Profile View Counts](https://komarev.com/ghpvc/?username=blazeinferno64&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=e91e63)](https://github.com/blazeinferno64)
