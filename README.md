@@ -23,8 +23,21 @@ Thanks for stumbling upon my GitHub account. I am a backend developer. Here in m
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,cpp)](https://github.com/blazeinferno64)
+[![Programming Languages](https://skillicons.dev/icons?i=ts,js,python,c,cpp,cs)](https://github.com/blazeinferno64)
+
+### Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,fastapi,flask)](https://github.com/blazeinferno64)
+
+### IDEs/Code Editors
+
+[![Code editors](https://skillicons.dev/icons?i=vscode,visualstudio,vim,pycharm)](https://github.com/blazeinferno64)
 
 ### Meme of the day
 
 [![Random developer meme](https://i.programmerhumor.io/2025/03/0a3148225cf4986ef9427abc8a321f9751087683dda5f0f93bf80b8e4a65dec2.jpeg)](https://github.com/blazeinferno64)
+
+<br />
+<br />
+
+[![BlazeInferno64's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blazeinferno64&theme=dracula&bg_color=2a2d2e)](#)
