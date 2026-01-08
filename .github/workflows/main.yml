@@ -1,4 +1,4 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# GitHub Action for generating a contribution graph with a snake (light & dark mode).
 
 name: Generate Snake
 
@@ -11,7 +11,6 @@ on:
   # This command allows us to run the Action manually from the Actions tab.
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "generate"
   generate:
@@ -23,18 +22,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-      # Generates the snake animation from your GitHub contribution graph
+      # Generates the snake animation (light + dark mode)
       - name: Generate the snake
         uses: Platane/snk/svg-only@v3
         with:
           # GitHub username whose contribution graph will be used
           github_user_name: blazeinferno64
 
-          # These lines generate the files inside the "dist" folder
-          # which will later be pushed to the "output" branch
+          # Generate both light and dark SVGs
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
