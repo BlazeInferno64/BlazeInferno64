@@ -35,11 +35,19 @@ Thanks for stumbling upon my GitHub account. I am a backend developer. Here in m
 
 ### Meme of the day
 
-[![Random developer meme](https://i.programmerhumor.io/2025/03/0a3148225cf4986ef9427abc8a321f9751087683dda5f0f93bf80b8e4a65dec2.jpeg)](https://github.com/blazeinferno64)
+<!--[![Random developer meme](https://i.programmerhumor.io/2025/03/0a3148225cf4986ef9427abc8a321f9751087683dda5f0f93bf80b8e4a65dec2.jpeg)](https://github.com/blazeinferno64)-->
 
 <br />
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/BlazeInferno64/BlazeInferno64/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<!--![GitHub Contribution Snake](https://raw.githubusercontent.com/BlazeInferno64/BlazeInferno64/refs/heads/output/github-contribution-grid-snake-dark.svg)-->
+
+<picture>
+  <!-- Dark mode -->
+  <source srcset="https://raw.githubusercontent.com/BlazeInferno64/BlazeInferno64/refs/heads/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/BlazeInferno64/BlazeInferno64/refs/heads/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 <br />
 
