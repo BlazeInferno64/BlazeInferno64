@@ -38,6 +38,9 @@ Thanks for stumbling upon my GitHub account. I am a backend developer. Here in m
 [![Random developer meme](https://i.programmerhumor.io/2025/03/0a3148225cf4986ef9427abc8a321f9751087683dda5f0f93bf80b8e4a65dec2.jpeg)](https://github.com/blazeinferno64)
 
 <br />
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/BlazeInferno64/BlazeInferno64/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
 <br />
 
 [![BlazeInferno64's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blazeinferno64&theme=dracula&bg_color=2a2d2e)](#)
