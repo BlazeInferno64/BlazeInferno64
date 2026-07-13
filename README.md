@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeinferno64&layout=compact&theme=onedark&count_private=true&include_all_commits=true&bg_color=282828&exclude_repo=uni-math-notes,obsidian-universal-renderer&langs_count=6&card_width=400" height=150></a>
+<a href="#"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=blazeinferno64&layout=compact&theme=onedark&count_private=true&include_all_commits=true&bg_color=282828&exclude_repo=uni-math-notes,obsidian-universal-renderer&langs_count=6&card_width=400" height=150></a>
 </p>
 
 <p align="center">
-  <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=blazeinferno64&theme=onedark&count_private=true&include_all_commits=true&line_height=28" width=335></a>
+  <a href="#"><img alt="stats" src="https://github-stats-extended.vercel.app/api?username=blazeinferno64&theme=onedark&count_private=true&include_all_commits=true&line_height=28" width=335></a>
 </p>
 
 ### About
