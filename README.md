@@ -15,7 +15,7 @@
 </p>
 
 ### About
-Thanks for stumbling upon my GitHub account. I am a backend developer! Here on my GitHub, you will most likely find some open-source software projects and repositories that might be useful to you.
+Thanks for stumbling upon my GitHub account. I am a backend developer! On my GitHub, you will most likely find open-source software projects and cool repositories that may be useful to you.
 
 [![My Profile View Counts](https://komarev.com/ghpvc/?username=blazeinferno64&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=e91e63)](https://github.com/blazeinferno64)
 
